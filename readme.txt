@@ -1,4 +1,4 @@
-The target of this article is to correctly identify the systems that are under the threat of cryptojacking. You can find the dataset, and the problem statement here:
+... is to correctly identify the systems that are under the threat of cryptojacking. You can find the dataset and the problem statement here:
 
            https://www.kaggle.com/datasets/keshanijayasinghe/cryptojacking-attack-timeseries-dataset
 Solution:
